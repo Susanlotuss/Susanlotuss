@@ -4,9 +4,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **the project LabNotes**
+- ✨ I’m constantly working on **New projects** to improve my skills!
 
-- 👨‍💻 I’m currently learning **React!**
+- 👨‍💻 I’m a **React** developer.
+
+- 👾 I'm interested in learning more programming languages!
 
 - 🌱 Npm profile link [https://www.npmjs.com/~susanlotus](https://www.npmjs.com/~susanlotus)
 
