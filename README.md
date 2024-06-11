@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Susana Martínez</h1>
 
-<h3 align="center">A Front-End developer with background in Law from Colombia</h3>
+<h3 align="center">A Fullstack Developer with background in Law from Colombia</h3>
 
 <br>
 
